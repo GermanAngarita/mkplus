@@ -15,7 +15,7 @@
     "colombia-holidays": "0.0.1",
     "cors": "^2.8.4",
     "crypto": "^1.0.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "https": "^1.0.0",
     "jwt-simple": "^0.5.1",
